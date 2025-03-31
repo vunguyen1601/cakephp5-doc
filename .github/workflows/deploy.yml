@@ -3,10 +3,10 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main  # Chạy khi có push vào nhánh main
+      - main
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
