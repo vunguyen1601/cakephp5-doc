@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcakephp_5_doc=self.webpackChunkcakephp_5_doc||[]).push([[9647],{8122:(e,c,s)=>{s.r(c),s.d(c,{default:()=>n});s(6540);var r=s(4164),a=s(1082),p=s(204),u=s(2831),d=s(1410),h=s(4848);function n(e){return(0,h.jsx)(a.e3,{className:(0,r.A)(p.G.wrapper.docsPages),children:(0,h.jsx)(d.A,{children:(0,u.v)(e.route.routes)})})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcakephp_5_doc=self.webpackChunkcakephp_5_doc||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/cakephp5-doc/blog","blogTitle":"Blog","authorsListPath":"/cakephp5-doc/blog/authors"}')}}]);
